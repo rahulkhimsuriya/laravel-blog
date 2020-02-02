@@ -1,0 +1,1 @@
+<a href="/posts" class="btn btn-outline-dark"><i class="far fa-arrow-alt-circle-left"></i> Go Back</a>

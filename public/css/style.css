@@ -1,0 +1,17 @@
+.list-unstyled .media {
+    transition: all 0.3s ease-in-out;
+}
+
+.list-unstyled .media:hover {
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15) !important;
+}
+
+.list-unstyled .media img {
+    height: auto;
+    width: 100px;
+}
+
+.navbar .fas,
+.navbar .far {
+    color: var(--cyan);
+}
